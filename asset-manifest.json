@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://stirthraj.github.io/csb-nnm2lv/static/css/main.e381c214.chunk.css",
+    "main.js": "https://stirthraj.github.io/csb-nnm2lv/static/js/main.aade7700.chunk.js",
+    "main.js.map": "https://stirthraj.github.io/csb-nnm2lv/static/js/main.aade7700.chunk.js.map",
+    "runtime-main.js": "https://stirthraj.github.io/csb-nnm2lv/static/js/runtime-main.bd047a92.js",
+    "runtime-main.js.map": "https://stirthraj.github.io/csb-nnm2lv/static/js/runtime-main.bd047a92.js.map",
+    "static/js/2.a64d6d3c.chunk.js": "https://stirthraj.github.io/csb-nnm2lv/static/js/2.a64d6d3c.chunk.js",
+    "static/js/2.a64d6d3c.chunk.js.map": "https://stirthraj.github.io/csb-nnm2lv/static/js/2.a64d6d3c.chunk.js.map",
+    "index.html": "https://stirthraj.github.io/csb-nnm2lv/index.html",
+    "static/css/main.e381c214.chunk.css.map": "https://stirthraj.github.io/csb-nnm2lv/static/css/main.e381c214.chunk.css.map",
+    "static/js/2.a64d6d3c.chunk.js.LICENSE.txt": "https://stirthraj.github.io/csb-nnm2lv/static/js/2.a64d6d3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd047a92.js",
+    "static/js/2.a64d6d3c.chunk.js",
+    "static/css/main.e381c214.chunk.css",
+    "static/js/main.aade7700.chunk.js"
+  ]
+}
